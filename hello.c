@@ -12,5 +12,6 @@ int main(int argc, char **argv) {
 
   printf("Levi Tran!\n");
 
+  prinf("Computer Science\n");
   return 0;
 }
